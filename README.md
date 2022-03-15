@@ -2,7 +2,7 @@
 
 H3 Revendo conveitos 
 
-Abstração 
-Encapsulamento 
-Herança
-Poliformismo
+-Abstração 
+-Encapsulamento 
+-Herança
+-Poliformismo
